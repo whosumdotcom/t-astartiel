@@ -1,0 +1,29 @@
+{
+  "TermsOfServiceVersion": 1,
+  "TermsAgreedToWhen": "2023-04-20T23:23:29Z",
+  "IdClaims": [
+    {
+      "Claim": "t:astartiel"
+    },
+    {
+      "Claim": "yt:@astartiel"
+    },
+    {
+      "Claim": "spout:astartiel"
+    },
+    {
+      "Claim": "pat:astartiel"
+    }
+  ],
+  "IdDisclaims": null,
+  "Signature": {
+    "Authority": "https://whosum.com",
+    "PublicKey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEApF0NC9C13limzP9H5\u002BcXoWEddOfjDdysecEWNhNxS3yCWdRJjsCpIWY3euUxIFWw9W9Zkbo1tx8YbnLVdCPd7qORelTZZR5I9IvQdsyyqZIeAuw4xk/VcK119Kme13cqhsjOtgCrdekjz5YEklZqXdZKclJMc2fqHjOfHl07lYXWmqx8FxCUjjGCkBcr4WZD/uvs0SXRACkXS01bP0Wbao1sHxyFoADHV5i8Yvg2o32Sy37DMMMOfjO8ZpqqwNKVEs04gGL\u002BnGkDqNP/6lIaTinrzCJe57qcorGcVlWGdV4nC5uMgIgqZ/7pzrCHF5WbXai3g3AObmPJ5eG8TCTsrQIDAQAB",
+    "Nonce": "f93a923073efcc397796c66f",
+    "Timestamp": "2023-04-20T23:35:02Z",
+    "Signature": "7a0b3e872c5fface9359b024827071a58de5b2280fbc36ca59641d10f49e31bf42910b389542aae3bd448a9fea05e8ebef3b2db8a9dc5983017cdb431cb864c3f969f0d2b1e50b1045a4fc9b8155aca1a65fc5100959495adda0124716301fe7cd156e705c2d283b1fbec24c398292fc52d63f3c85e16a4ca74594a2dbbcc531578ab5b71bd031dff5a05bb31ed6e6fcc7e6e73bb3c5d85975813c7640bc21b817d0bb8572dc1d57177b218ebb701329ae261c730de65a5c8ed6fff75a2e8003aebab5fa34f2f0e15ad8bad376312f53e7518e326f0eb006880e20ad0112922b70aca68d90aa84a8af7ac02b96beb30a1698886a6da88b4eabea9ff841a5adab"
+  },
+  "AgreedToTerms": true,
+  "ContentSha256": "e659f0c8d1fce0a24c56a10908ade04ec6bf23ff4564689573a8df191e764bf5",
+  "ContentToHash": "v1|pat:astartiel,spout:astartiel,t:astartiel,yt:@astartiel|2023-04-20T23:23:29Z"
+}
